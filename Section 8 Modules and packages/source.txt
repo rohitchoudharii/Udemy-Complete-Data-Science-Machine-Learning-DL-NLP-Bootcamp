@@ -1,0 +1,3 @@
+Hello how are you?
+This is a test course file.
+This file will be used for shutil copy operation
