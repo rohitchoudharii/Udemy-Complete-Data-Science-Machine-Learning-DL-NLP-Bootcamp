@@ -1,3 +1,7 @@
 pykernel
 pandas
-numpỳ
+numpy
+lxml
+matplotlib
+ipython
+seaborn
