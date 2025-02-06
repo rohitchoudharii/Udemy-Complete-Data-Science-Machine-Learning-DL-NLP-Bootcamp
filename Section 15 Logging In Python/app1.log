@@ -1,0 +1,11 @@
+2025-02-06 20:22:26 - ArithmethicApp - WARNING - Invalid operation selcted
+2025-02-06 20:23:05 - ArithmethicApp - ERROR - Denominator can't be zero
+2025-02-06 20:23:26 - ArithmethicApp - DEBUG - Adding a: 50 b:50 = 100
+2025-02-06 20:24:36 - ArithmethicApp - DEBUG - Adding a: 50 b:60 = 110
+2025-02-06 20:24:36 - ArithmethicApp - DEBUG - Substracting a: 50 b:60 = -10
+2025-02-06 20:24:36 - ArithmethicApp - DEBUG - Multiplying a: 50 b:60 = 3000
+2025-02-06 20:24:36 - ArithmethicApp - DEBUG - Diviting a: 50 b:60 = 0.8333333333333334
+2025-02-06 20:24:42 - ArithmethicApp - DEBUG - Adding a: 50 b:0 = 50
+2025-02-06 20:24:42 - ArithmethicApp - DEBUG - Substracting a: 50 b:0 = 50
+2025-02-06 20:24:42 - ArithmethicApp - DEBUG - Multiplying a: 50 b:0 = 0
+2025-02-06 20:24:42 - ArithmethicApp - ERROR - Denominator can't be zero
