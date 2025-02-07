@@ -5,3 +5,5 @@ lxml
 matplotlib
 ipython
 seaborn
+bs4
+requests
